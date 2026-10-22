@@ -1,0 +1,7 @@
+{
+  "validation_rule": "Instructor-issued E1E3_val_lots list",
+  "fit_count": 43308,
+  "validation_count": 11047,
+  "test_count": 118595,
+  "fit_validation_lot_overlap": 0
+}
